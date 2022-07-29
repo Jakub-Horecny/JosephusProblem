@@ -5,3 +5,5 @@ People are standing in a circle waiting to be executed. Counting begins at a spe
 the circle in a specified direction. After a specified number of people are skipped, the next person is executed. 
 The procedure is repeated with the remaining people, starting with the next person, going in the same direction and skipping 
 the same number of people, until only one person remains, and is freed.
+
+https://www.geogebra.org/m/ExvvrBbR
